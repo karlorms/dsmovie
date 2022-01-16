@@ -7,7 +7,9 @@ function Navbar() {
         <header>
             <nav className="container">
                 <div className="dsmovie-nav-content">
-                    <h1>ROGMovie</h1>
+                    <a href="/">
+                        <h1>ROGMovie</h1>
+                    </a>
                     <a href="https://github.com/karlorms">
                         <div className="dsmovie-contact-container">
                             <GithubIcon />
